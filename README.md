@@ -2,6 +2,9 @@
 
 This is a **Java-based Bank Management System** designed to function like an ATM. Users can create an account, log in using their ATM card number and PIN, and perform various banking transactions.
 
+![ScreenShot](ScreenShots/Screenshot%202025-03-03%20163608.png) 
+`please see more Screenshots from ScreenShots Folder:`
+
 ---
 
 ## 📌 **Features**
@@ -12,7 +15,7 @@ This is a **Java-based Bank Management System** designed to function like an ATM
 🔏 PIN change functionality  
 ⌛ Fast cash withdrawal options  
 📃 Receipt generation    
-🛡️ Secure SQL-based database  
+🛡️ Secure SQL-based database
 
 ---
 
