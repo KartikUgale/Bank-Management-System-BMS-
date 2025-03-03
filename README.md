@@ -23,6 +23,9 @@ This is a **Java-based Bank Management System** designed to function like an ATM
 - **Git & GitHub** – Version control  
 
 ---
+> **`NOTE:`** I have not removed the `out` folder because it contains `BMS.jar`. Anyone who wants to experience my project can download `BMS.jar` and run the software.
+
+---
 
 ## 📂 **Project Structure**
 ```
