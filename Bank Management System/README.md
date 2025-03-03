@@ -1,3 +1,0 @@
-# Bank-Management-System-BMS-
-
-###  
