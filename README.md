@@ -7,6 +7,7 @@ This is a **Java-based Bank Management System** designed to function like an ATM
   <img src="ScreenShots/Screenshot%202025-03-03%20163940.png" width="300">
   <img src="ScreenShots/Screenshot%202025-03-03%20163532.png" width="300">
 </div>
+
 `please see more Screenshots from ScreenShots Folder:`
 
 ---
