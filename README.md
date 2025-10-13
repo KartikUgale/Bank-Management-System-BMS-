@@ -77,7 +77,7 @@ This is a **Java-based Bank Management System** designed to function like an ATM
 ## 🍵 **How to Run the Project**
 ### **1️. Clone the Repository**
 ```sh
-git clone https://github.com/your-username/Bank-Management-System.git
+git clone https://github.com/<this repo link>/Bank-Management-System.git
 cd Bank-Management-System
 ```
 
@@ -85,11 +85,11 @@ cd Bank-Management-System
 ```
 IntelliJ IDEA  
 │  
-├── Open Your Project  
+├── Open Project  
 │  
 ├── Go to "File"  
 │  
-├── Select "Project Structure" (press-> Ctrl + Alt + Shift + S)  
+├── Select "Project Structure" ( Ctrl + Alt + Shift + S)  
 │  
 ├── In the Left Panel, Click "Libraries" 
 │  
@@ -112,14 +112,7 @@ javac -d bin src/main/java/com/bms/*.java
 java -cp bin com.bms.Login
 ```
 > OR simply Download BMS.jar file and run it.
----
----
 
-## 🎯 **Future Improvements**
-- [x] Improve Receipt UI
-- [x] Improve safety using PreparedStatement with place holder `'?'`
-- [ ] Improve UI with modern design  
-- [ ] Implement mobile banking support
 ---
 
 ## 🤝 **Contributing**
@@ -128,8 +121,7 @@ Want to improve this project? Fork it, create a feature branch, and submit a pul
 ---
 
 ## 📞 **Contact**
-🧑‍💻 **Developer:** Kartik Ugale  
-📧 **Email:** kartikugale822@gmail.com  
+🧑‍💻 **Developer:** Kartik Ugale    
 🐈 **GitHub:** [click here](https://github.com/KartikUgale)  
 🔎 **Linked in:** [click here](www.linkedin.com/in/kartik-ugale) 
 
